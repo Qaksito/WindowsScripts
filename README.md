@@ -5,7 +5,7 @@ ENGLISH:
   3- put a name to this task
   4- select "when the computer start"
   5- select "Start a program"
-  6- chose THE DIRECT ACCES (to open this in admin mode)
+  6- chose "WindowsOptimizer"
   7- click on Finish
   
 ESPAÑOL:
@@ -15,5 +15,5 @@ ESPAÑOL:
   3- ponle un nombre a esta tarea
   4- selecciona "al iniciarse el equipo"
   5- selecciona "iniciar un programa"
-  6- selecciona EL ACCESO DIRECTO (para que este se inicie como administrador)
+  6- selecciona "WindowsOptimizer"
   7- clickear en Finalizar
